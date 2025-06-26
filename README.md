@@ -9,12 +9,11 @@
 <img src="https://img.shields.io/badge/Platform-ESP32-blue" alt="ESP32 Platform">
 <img src="https://img.shields.io/badge/Controller-Xbox-green" alt="Xbox Controller">
 <br>
-  
-  ![GitHub repo size](https://img.shields.io/github/repo-size/YourUsername/ArmBot?style=for-the-badge)
-  ![GitHub stars](https://img.shields.io/github/stars/YourUsername/ArmBot?style=for-the-badge)
-  ![GitHub forks](https://img.shields.io/github/forks/YourUsername/ArmBot?style=for-the-badge)
-  ![GitHub issues](https://img.shields.io/github/issues/YourUsername/ArmBot?style=for-the-badge)
 
+  ![GitHub repo size](https://img.shields.io/github/repo-size/Ravinx001/ArmBot?style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/Ravinx001/ArmBot?style=for-the-badge)
+  ![GitHub forks](https://img.shields.io/github/forks/Ravinx001/ArmBot?style=for-the-badge)
+  ![GitHub issues](https://img.shields.io/github/issues/Ravinx001/ArmBot?style=for-the-badge)
 </div>
 
 ---
